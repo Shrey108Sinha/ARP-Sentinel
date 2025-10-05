@@ -1,4 +1,4 @@
-# ARP Sentinel �️
+# ARP Sentinel 
 
 A proactive, hybrid Python/C system for the detection, prevention, and correction of ARP Cache Poisoning and Man-in-the-Middle (MiTM) attacks.
 
